@@ -2,8 +2,6 @@
 
 A project that detects potential market manipulation patterns (spoofing, layering, quote-stuffing) in real limit order book data, combining rule-based signals, unsupervised anomaly detection, and a supervised model trained on synthetically injected ground truth.
 
-Built as part of preparation for the LSEG Quantitative Analytics Early Careers Programme.
-
 ---
 
 ## Overview
@@ -99,7 +97,7 @@ streamlit run dashboard/app.py
 ## Project Structure
 
 ```
-lseg-surveillance-project/
+market-surveillance-project/
 ├── data/
 │   ├── AAPL_2012-06-21_..._message_10.csv
 │   ├── AAPL_2012-06-21_..._orderbook_10.csv
