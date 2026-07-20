@@ -1,6 +1,6 @@
 # Market Surveillance — Anomaly Detection in Limit Order Book Data
 
-A portfolio project detecting potential market manipulation patterns (spoofing, layering, quote-stuffing) in real limit order book data, combining rule-based signals, unsupervised anomaly detection, and a supervised model trained on synthetically injected ground truth.
+A project that detects potential market manipulation patterns (spoofing, layering, quote-stuffing) in real limit order book data, combining rule-based signals, unsupervised anomaly detection, and a supervised model trained on synthetically injected ground truth.
 
 Built as part of preparation for the LSEG Quantitative Analytics Early Careers Programme.
 
